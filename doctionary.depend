@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463434662 source:c:\users\vaibhav\documents\doctionary\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<Shlobj.h>
+

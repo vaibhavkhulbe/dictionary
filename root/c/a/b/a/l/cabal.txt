@@ -1,0 +1,1 @@
+cabal n. A number of persons secretly united for effecting by intrigue some private purpose.

@@ -1,0 +1,1 @@
+digraph n. A union of two characters representing a single sound.

@@ -1,0 +1,1 @@
+trajectory n. The path described by a projectile moving under given forces.
